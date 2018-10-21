@@ -7,7 +7,7 @@ Parameters:
   InstanceAMI:
     Description: OpenVPN AMI
     Type: String
-    Default: ami-bc3566ab
+    Default: ami-b4affca3
 
   InstanceType:
     Description: OpenVPN Instance Type
